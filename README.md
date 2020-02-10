@@ -3,7 +3,7 @@ This repository contains jupyter notebooks used to assemble, clean, and process 
 
 
 ### Prerequisites
-To create a conda environment with all of the necessary packages do:
+To create a conda environment with all of the necessary packages run:
 
 ```
 conda env create --file autumncast-model.yml
